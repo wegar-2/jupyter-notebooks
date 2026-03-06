@@ -26,7 +26,8 @@ simulated ARMA process - TBD
 4. [Fractional differencing with *tsfracdiff*](./notebooks/04_fractional_differencing_with_ts_fracdiff.ipynb) - using
 package *tsfracdiff* package to search for least fractional order of integration
 that makes the given package stationary according to a specified test
-5. [Splitting data into train, validation and test datasets](./notebooks) - tbd
-6. [Drawing periodogram of a discrete-time process](./notebooks) - tbd
-7. [Testing for cointegration (non-fractional)](./notebooks) - tbd
-8. 
+5. [Good-looking stock price plot]()
+6. [Splitting data into train, validation and test datasets](./notebooks) - tbd
+7. [Drawing periodogram of a discrete-time process](./notebooks) - tbd
+8. [Testing for cointegration (non-fractional)](./notebooks) - tbd
+9. 
