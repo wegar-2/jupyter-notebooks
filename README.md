@@ -30,4 +30,4 @@ that makes the given package stationary according to a specified test
 6. [Splitting data into train, validation and test datasets](./notebooks) - tbd
 7. [Drawing periodogram of a discrete-time process](./notebooks) - tbd
 8. [Testing for cointegration (non-fractional)](./notebooks) - tbd
-9. 
+9. [Gold prices 1960-1971](./notebooks/09_gold_price_1960-1971.ipynb)
