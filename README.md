@@ -34,3 +34,5 @@ templates for making stock price plots that look more pleasant for the eye
 9. [Gold prices 1960-1971](./notebooks/09_gold_price_1960-1971.ipynb) - plot
 of monthly average gold prices with select important events from 
 political and financial history marked
+10. [Quick-n-dirty ML model of SP](./notebooks/10_century_of_SP500.ipynb) - WiP
+11. [Reference usecases of *optuna*](./notebooks/11_optuna_hyperopt.ipynb) - sample application of *optuna* to basic optimization (Rosenbrock) and simplified application to hyperparameters optimization
